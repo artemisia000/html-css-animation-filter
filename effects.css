@@ -52,7 +52,9 @@
     filter: grayscale(1);
   }
 
-.ex-7.img:hover{
+
+
+.ex-7-img:hover{
     filter:sepia(1);
     transition: 3s;
 }
