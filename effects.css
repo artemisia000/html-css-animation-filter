@@ -28,3 +28,11 @@
   transition:linear;
   
 } 
+
+.ex-4-square {
+    transition:2s;
+  }
+  
+  .ex-4-square:hover{
+    background-color:#fff;
+  }
