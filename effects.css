@@ -48,12 +48,11 @@
   height:100px;
 }
 
+.ex-6-img:hover{
+    filter: grayscale(1);
+  }
 
-.ex-6img:hover{
-    filter:grayscale(1);
-}
-
-.ex-7img:hover{
+.ex-7.img:hover{
     filter:sepia(1);
     transition: 3s;
 }
