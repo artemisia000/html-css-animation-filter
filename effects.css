@@ -43,8 +43,11 @@
     transition:width 3s, height 3s;  
 }
 
-
 .ex-5-square:hover{
   width:100px;
   height:100px;
 }
+
+
+.ex-6img:hover{
+    filter:grayscale(1);
