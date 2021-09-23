@@ -36,3 +36,15 @@
   .ex-4-square:hover{
     background-color:#fff;
   }
+
+
+  .ex-5-square {
+   
+    transition:width 3s, height 3s;  
+}
+
+
+.ex-5-square:hover{
+  width:100px;
+  height:100px;
+}
